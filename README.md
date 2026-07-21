@@ -23,7 +23,7 @@ I'm **Jeffrey**, an aspiring software developer with a genuine passion for learn
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jeff-rey13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jeffrey's GitHub stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=Jeff-rey13&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-<!-- UNCOMMENT THIS AFTER YOU PUSH YOUR FIRST PROJECT WITH ACTUAL CODE
+<-- UNCOMMENT THIS AFTER YOU PUSH YOUR FIRST PROJECT WITH ACTUAL CODE
      (right now it would show an empty card since you have no code repos yet)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-rey13&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 -->
