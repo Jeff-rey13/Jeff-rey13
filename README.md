@@ -11,13 +11,12 @@
  
 <p>I'm <b>Jeffrey</b>, an aspiring computer engineer with a genuine passion for learning how things work under the hood. I believe in writing clean, understandable code and in improving a little every single day.</p>
 <ul>
-  <li>🌱 Currently sharpening my skills in <b>C/C++, Python, Java, and web development</b></li>
-  <li>💻 Building projects to turn what I learn into things that actually work</li>
-  <li>🎯 Goal: grow into a well-rounded software engineer who can solve real problems</li>
-  <li>🤝 Open to collaborating, learning from others, and taking on new challenges</li>
-  <li>⚡ Fun fact: this README is my first repository — everyone starts somewhere, and this is my somewhere</li>
+  <li> Currently sharpening my skills in <b>C/C++, Python, Java, and web development</b></li>
+  <li> Building projects to turn what I learn into things that actually work</li>
+  <li> Goal: grow into a well-rounded software/hardware engineer who can solve real problems</li>
+  <li> Open to collaborating, learning from others, and taking on new challenges</li>
 </ul>
-<h2>🛠️ Languages &amp; Tools</h2>
+<h2> Languages &amp; Tools</h2>
  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,git,github,vscode&amp;perline=10" alt="Skills" />
@@ -27,7 +26,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeff-rey13&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" alt="GitHub trophies" width="100%" />
 </div>
-<h2>📊 GitHub Stats</h2>
+<h2> GitHub Stats</h2>
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeff-rey13&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;rank_icon=github" alt="GitHub stats" height="170" />
