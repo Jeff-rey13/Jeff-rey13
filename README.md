@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=JEFFREY&amp;fontSize=70&amp;fontColor=e94560&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Aspiring%20Hardware/Software %20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=JEFFREY&amp;fontSize=70&amp;fontColor=e94560&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Aspiring%20Hardware%2FSoftware%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=ffffff" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Hi+there%2C+I'm+Jeffrey+%F0%9F%91%8B;Learning.+Building.+Improving.;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+JavaScript" alt="Typing animation" />
 <br/>
 <a href="https://www.linkedin.com/in/noel-jeffrey-a2716230a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0A66C2" alt="LinkedIn" height="30" /></a>
